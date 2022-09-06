@@ -3,7 +3,7 @@ This is a text
 learning git and commid add 
 
 
-This two test
+This twos test
 
 
 Git is a distributed version control system.
